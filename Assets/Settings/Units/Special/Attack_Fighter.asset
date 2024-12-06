@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f716317523934af2a6807e5170afab2, type: 3}
+  m_Name: Attack_Fighter
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 9110828930803237992, guid: 838681ddee76b43eabe24f7bb0da9b92, type: 3}
+  TurnInto: {fileID: 0}
+  UnitLevel: -1
+  HP: 400
+  Damage: 0.5
+  DamageInPercent: 1
+  DamageEveryone: 0
+  DamageDelay: 1.4
+  DamageApplyDelay: 0.6
+  DamageFromLightningPercent: 0.02
+  Price: 50
+  BaseRewardForKill: 100
+  RewardForKillRaise: 100
+  RotationSpeed: 5
+  MoveSpeed: 3
+  StopDistance: 2
+  ArrowSpeed: 0
+  ArrowDamageRadius: 0
+  UnitName: Attack
+  IsAnimal: 1
+  PlayerUsable: 0
+  CardListOrder: 0
+  CardPreviewOffset: {x: 0, y: 0, z: 0}
+  CardPreviewScale: 1

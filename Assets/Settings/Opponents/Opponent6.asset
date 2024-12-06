@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b3a9b50ec2454c4ea6fd6368946cc35, type: 3}
+  m_Name: Opponent6
+  m_EditorClassIdentifier: 
+  Username: Ann
+  Avatar: {fileID: 21300000, guid: a6436ea93754e4989bbd2309c7d1b8e3, type: 3}
+  UnitsSetup:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 40ab553ed10fe429ab3d667eacbbbb4b, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: d7ecc2a3988b746ddabe4436c4a6204b, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 1a6cea30de61a4f6da86744c1047dfd2, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  ShieldsAmount: 0
+  MoneyAmount: 2250000
+  HomeLocation: {fileID: 6797576236262552846, guid: 460f7fd238ef74ca182223914c2cab47,
+    type: 3}

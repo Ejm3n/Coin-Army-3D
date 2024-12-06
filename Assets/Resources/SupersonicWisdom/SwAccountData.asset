@@ -1,0 +1,433 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bde5b51eef6a4560b2a2442b047a9a7, type: 3}
+  m_Name: SwAccountData
+  m_EditorClassIdentifier: 
+  titlesList:
+  - games: []
+    id: 
+    name: --- select ---
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.ammomaster3d
+      facebookAppId: 828444345108409
+      gameAnalyticsKey: c352ae139b3e4eae4d97e993088bd5d3
+      gameAnalyticsSecret: 83b02d07fe5203fac9742ed608595f636c1ad055
+      id: 306da235-c586-4bf9-95f3-c196e3fa27af
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.ammomaster3d
+    id: 3b069711-9a4a-40e8-b094-f5c2aa08b974
+    name: Ammo Master 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.assemblyrun3d
+      facebookAppId: 340071614745229
+      gameAnalyticsKey: 3bd826e36e49ebaeafd07959d495332f
+      gameAnalyticsSecret: 373ec5a425d322adcbac7b8515aa6f4790685a2b
+      id: f30b54a1-68cb-4450-bb0a-75ff81c4d467
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.assemblyrun3d
+    id: bee6d021-9768-4eda-a61b-76bee0acd15d
+    name: Assembly Run 3D
+  - games:
+    - adMobId: 
+      bundleId: 
+      facebookAppId: 1893755477624937
+      gameAnalyticsKey: 0a239bbbde52577a0e81792a2915ceff
+      gameAnalyticsSecret: ec5c321a5e2ff26ecb39a0d4d090b353b1baeecd
+      id: a271a3e4-6c2b-4509-995e-ed4a3c70cd96
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: 
+    id: 7b2e4587-f198-40ee-a14b-6fd5ca2dacd6
+    name: Battle Master 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.buildingwars
+      facebookAppId: 1194637894753374
+      gameAnalyticsKey: c4a24a2982d54eebb203e0a4c9f1c835
+      gameAnalyticsSecret: 371ea89566569a79915d5555891e8dcb7a6bad7f
+      id: 27894d4d-7ab9-4155-bf8b-b26388f22a44
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.buildingwars
+    id: 5600678e-1212-4ccd-a93f-1d24cf83ed0e
+    name: Building Wars 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.burgereater
+      facebookAppId: 489744285992604
+      gameAnalyticsKey: 5f603e8499b58ba09ed1a2904041f1e5
+      gameAnalyticsSecret: af48993cecd93670d8edc0dabc64b078d58ec48a
+      id: 8d608bf0-91c1-4cc5-92f2-38d0fc75d2c7
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.burgereater
+    id: ace73d3c-f1fa-4528-8bfc-76c6dd9154a2
+    name: Burger Eater
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.cannonidle3d
+      facebookAppId: 691184659168875
+      gameAnalyticsKey: 767746bc8ccdeac108db287672fc7282
+      gameAnalyticsSecret: 41fc9574a10857806642b4aaf187c5b9c321f730
+      id: a8697262-a4fe-4b25-afec-6b6f812defae
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.cannonidle3d
+    id: fb1aeaf7-e2ff-44fb-8738-b26e02163a07
+    name: Cannon Idle 3D
+  - games:
+    - adMobId: ca-app-pub-9334727648055753~4882016422
+      bundleId: com.butchersgames.carsmash3d
+      facebookAppId: 587230042789521
+      gameAnalyticsKey: df667150e9bf1e4b6b3a1f528ce92ba9
+      gameAnalyticsSecret: f7c991ed65ae8ddbf81768f9098005377b5b52b3
+      id: f1a876b2-6cd8-4d72-b030-9f6cca5a23c9
+      isAppKey: 17604a155
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.carsmash3d
+    - adMobId: ca-app-pub-9334727648055753~6688802555
+      bundleId: com.butchersgames.carsmash3d
+      facebookAppId: 587230042789521
+      gameAnalyticsKey: 3b14e2a873543b1fc1a79e974365c4a6
+      gameAnalyticsSecret: 612185d95fbc53961f27f97b76cef8f9aec4a441
+      id: 8f8bbfbf-6ba2-4044-a8fb-3328caff844a
+      isAppKey: 176051465
+      os: ios
+      platform: app_store
+      storeId: id1639702052
+    id: 1e11ba61-ade6-4b35-8717-8a828b3dbca6
+    name: Car Survival 3D
+  - games:
+    - adMobId: 
+      bundleId: com.Vasxage.CollectAndShoot
+      facebookAppId: 1000927374558355
+      gameAnalyticsKey: bad3f7cd78f6148cfc8375b130b57f62
+      gameAnalyticsSecret: ecc21f3092115e92c553ac31e1c2aa3653152e8b
+      id: 9dac3fbf-577d-473b-8e21-61230abd8936
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.Vasxage.CollectAndShoot
+    id: 83f1d528-ccd4-44f4-8eaf-261f5d5cf3a9
+    name: Collect Bullets 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.crazycolorcblocks
+      facebookAppId: 1013873956163217
+      gameAnalyticsKey: 93c486f10cce5d954b84780c0fd900e1
+      gameAnalyticsSecret: 1684d7011b2143814cb61d16a94466ad34b3a2bc
+      id: 1b258ba9-9166-4376-8dd5-acbf2c1777ea
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.crazycolorcblocks
+    id: 3b3cf3b8-fe2a-4a28-af7f-ff5aab04ed24
+    name: Color Gun
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.countrydefence
+      facebookAppId: 6439387356150304
+      gameAnalyticsKey: 340033697a8a935d6723c2f1036d6c82
+      gameAnalyticsSecret: 7acc756a186534ba7de8a0ee4434805a9a4431ec
+      id: 49526a05-6165-49df-a486-4f5adac77a0a
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.countrydefence
+    id: 062ed348-f7a1-4dcd-85c6-bb90dcaa5f8c
+    name: Country Defence 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.destruction3dasmr
+      facebookAppId: 1140310209871154
+      gameAnalyticsKey: e765a0aa073863b8611b1fc57bff0479
+      gameAnalyticsSecret: f448af4f51c3c801e623d55e2c6eb1c3db389508
+      id: 206e39d8-5b6f-47ba-8b66-0994fe20908e
+      isAppKey: 
+      os: ios
+      platform: app_store
+      storeId: id1630756213
+    - adMobId: 
+      bundleId: com.butchersgames.destruction3dasmr
+      facebookAppId: 1140310209871154
+      gameAnalyticsKey: e1bbdb70750e2fd993b965ae54776409
+      gameAnalyticsSecret: 97044ad410369c4a4fd6f265744bd5b7bf064c6a
+      id: a0207865-a53b-40b8-bcd0-c925acf02257
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.destruction3dasmr
+    id: b756351f-4560-44bb-b4cb-ae6727ab44de
+    name: Destruction 3D ASMR
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.drawinoneline
+      facebookAppId: 410975963765166
+      gameAnalyticsKey: 1e7738a28796a6bdbb0482cdd515d272
+      gameAnalyticsSecret: e3a139485728ddd3317573eacc969aa321e6156a
+      id: 31f46525-da65-4367-8c55-d83805a03d33
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.drawinoneline
+    id: 1bb83b57-7a08-43cd-839f-4c25fdc3d97a
+    name: Draw in one line
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.earthquakerepair
+      facebookAppId: 699261381070099
+      gameAnalyticsKey: 1337b227e496b62115cc783df15d8f86
+      gameAnalyticsSecret: 2c4adc303d4c77f2fec4e3a3ca207f981aa76e34
+      id: b5abe6ba-4344-4fd0-820d-1514a0d88f51
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.earthquakerepair
+    id: 6c01517b-7563-4f9d-a99e-41fab83e2409
+    name: Earthquake attack
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.horsecleaning3d
+      facebookAppId: 827306901813294
+      gameAnalyticsKey: c2f09ab4fd8e0f0b18f0a46ee016f305
+      gameAnalyticsSecret: e9e0034266f31c6538ca426e5fd8aad857373085
+      id: 5774c777-c417-49b2-8302-b696ea57562e
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.horsecleaning3d
+    id: 6433bb67-d4c3-496d-8e0a-40dc7d0165dc
+    name: Horse Cleaning 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.hugesplash
+      facebookAppId: 1395436627581605
+      gameAnalyticsKey: 3c2e99c2ce3473b1afd5c61d5820dac7
+      gameAnalyticsSecret: 73d5f8652e84664cf5d48ace04147f0a4a4072b1
+      id: 71aca386-0bd7-466e-9d83-f41dff87815e
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.hugesplash
+    id: 21f8f1db-6c63-4e8a-b8df-bdaeeb173952
+    name: Huge Splash
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.idlebattery
+      facebookAppId: 251735557191585
+      gameAnalyticsKey: 1c8cb1332491e251c4e1b0b2c0257090
+      gameAnalyticsSecret: 773ef3acf5bb595c144c6d3add0a80a7248de08f
+      id: eeb297cb-2bcb-431f-a0b6-bfb6de070e5e
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.idlebattery
+    id: bc555d27-7175-4749-a54a-850f42c40efb
+    name: Idle Battery Charge
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.infectorsniper3d
+      facebookAppId: 1000927374558355
+      gameAnalyticsKey: 7905db8f7ec1d8bd001f2ea5fe2c078a
+      gameAnalyticsSecret: 8cb0ac423769a0831dd33fc47c4533511820dea0
+      id: 3575492e-5374-4316-965a-2754b586120e
+      isAppKey: 
+      os: ios
+      platform: app_store
+      storeId: id6463475109
+    - adMobId: 
+      bundleId: com.butchersgames.infectorsniper3d
+      facebookAppId: 605236011498896
+      gameAnalyticsKey: 86f6653dbb6e91e465db04a52aa45777
+      gameAnalyticsSecret: ced6c173f290eb1c1bd00312fc3b5ca0390889f8
+      id: c6e2946b-c8ac-4e24-a1ff-f9de2716c8fb
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.infectorsniper3d
+    id: 90543c2c-3f39-4e75-809f-a4d567b4c665
+    name: Infector Sniper 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.mergeheroes3d
+      facebookAppId: 1241845586657180
+      gameAnalyticsKey: c405de716a78fd23424580a7e6579896
+      gameAnalyticsSecret: 4782fa143fb2ca57dffb2dd6d1c1a5c699193466
+      id: 2868e404-affa-4dee-8f23-2c7ad5336fe8
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.mergeheroes3d
+    id: 5ab340db-8a06-422d-b797-edda2e858d33
+    name: Merge Defence 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.myfitnessclub
+      facebookAppId: 159530900443740
+      gameAnalyticsKey: 449bb870e8ca42dbcc7863a0eac06cbc
+      gameAnalyticsSecret: 59d31c47593aef2b1e87bd54dcbc8e5380b1cc06
+      id: d7885cb2-b2b4-41d3-b38c-4a8aa6270f25
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.myfitnessclub
+    id: 3bc3f486-6e6a-4917-a1de-daff587f6a2c
+    name: My Fitness Club
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.ropebattle
+      facebookAppId: 1309299982968243
+      gameAnalyticsKey: c4a912eb8899a1dc59cb297b0d7e3606
+      gameAnalyticsSecret: 8c43061b55d627457c1353a64f0e74384cc1ad45
+      id: 65f5a36d-f481-4974-a96b-9c0551b5391a
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.ropebattle
+    id: 3943f5ba-b11a-442f-a165-b9bca0cb301d
+    name: Rope Battle 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.smashandhide
+      facebookAppId: 250015954241149
+      gameAnalyticsKey: 144fee5b73a3b6512e529ccd6c20da33
+      gameAnalyticsSecret: bd797764e300ee38fff394dcd689ff61bb7d89d1
+      id: 5a4fe052-0338-448b-93f5-528354929551
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.smashandhide
+    id: 77b66658-5054-42f3-b761-5a82c5d9728b
+    name: Smash and Hide
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.telekinesisbattle
+      facebookAppId: 558473552079542
+      gameAnalyticsKey: 6e55a5a492e6100779c325676ffd4356
+      gameAnalyticsSecret: dd62231ef2d4f4b6558353edee3dc66ccd8990a3
+      id: 18e23ded-9daf-4df1-b192-bb2577bedc75
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.telekinesisbattle
+    id: 24f3d847-12d6-454c-8ba6-979514274e22
+    name: Telekinesis Battle
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.telekinesiscar3d
+      facebookAppId: 6408070712603939
+      gameAnalyticsKey: 3c86baa2f439594cf58704a4eb0e0235
+      gameAnalyticsSecret: 4dd0d579e48d846f1fde00c3ecae82c039344f2e
+      id: 78b6eab4-79e0-45fc-8f5a-86311b9482e2
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.telekinesiscar3d
+    id: 0bb89c63-85ba-48bb-9e1c-8443ec4825c9
+    name: Telekinesis Car 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.cartelekines
+      facebookAppId: 735896951268422
+      gameAnalyticsKey: e5fe73ba7e21054da6a799ec4285fd23
+      gameAnalyticsSecret: 6ae31fe18f476c2829faf7185c40c7d8649bd939
+      id: 0ef52249-1db8-40b1-8b6e-70f2b4daf4a5
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.cartelekines
+    - adMobId: 
+      bundleId: com.butchersgames.cartelekines
+      facebookAppId: 735896951268422
+      gameAnalyticsKey: 74190f18d1849e67a5b3b93c025fb8e5
+      gameAnalyticsSecret: ab4c203541364af27cd9c11cf158c4a6e9e4724e
+      id: 14b91b33-c94f-4155-92c0-f60c28427c39
+      isAppKey: 
+      os: ios
+      platform: app_store
+      storeId: id1672001054
+    id: 1fa5aa13-9ff8-471e-b7a5-89f767ca248b
+    name: Telekinesis Master
+  - games:
+    - adMobId: ca-app-pub-9334727648055753~8083819595
+      bundleId: com.butchersgames.telekinesisquest
+      facebookAppId: 306160921421756
+      gameAnalyticsKey: a2eee8de821607c6274d3b8eb1bf8753
+      gameAnalyticsSecret: 34fcd18335e3927bd10a9f199d17f086760e8eb5
+      id: 679df233-5508-4ed2-8862-b7c81b02379a
+      isAppKey: 14de73091
+      os: ios
+      platform: app_store
+      storeId: id1602135535
+    - adMobId: ca-app-pub-9334727648055753~6868323736
+      bundleId: com.butchersgames.telekinesisquest
+      facebookAppId: 306160921421756
+      gameAnalyticsKey: 1ffbc59196d1f13f7e3b8d71095a27e6
+      gameAnalyticsSecret: 19fd768cc1804d2cb863daeef61790eef0afab33
+      id: 9fc1905a-7d55-4c95-af4e-d54f296bd7a9
+      isAppKey: 14de6bd81
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.telekinesisquest
+    id: c415112b-f18b-441f-b11b-e045e676cfb0
+    name: Telekinesis Quest 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.tiltrun
+      facebookAppId: 1670326189985736
+      gameAnalyticsKey: 66936ead1b8e57533f366c37544711df
+      gameAnalyticsSecret: f724d0d091408e158cdc000f326161bdb36f28a2
+      id: 61e518b2-3256-4fe7-a730-517c507cd6db
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.tiltrun
+    id: 1a6965bd-381a-4fbb-8262-d125828c146a
+    name: Tilt Run 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.trainrun3d
+      facebookAppId: 297423289296475
+      gameAnalyticsKey: c3087e5b3ddd3c2aec79225842250346
+      gameAnalyticsSecret: 9df108e94100d32cbe9de7d5ce3c30f62ee7e5b1
+      id: 39be026b-2c14-4798-901e-7074f447f7a7
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.trainrun3d
+    id: b97d8d71-bae6-460b-8f6a-7b7099cf82b6
+    name: Train Run 3D
+  - games:
+    - adMobId: 
+      bundleId: com.butchersgames.woodslayers
+      facebookAppId: 1955293737997708
+      gameAnalyticsKey: 669a0034e9235c34b45c542d2faf5260
+      gameAnalyticsSecret: c87a8f28f21631eed1680008d558aa3e43bab081
+      id: bb9d2143-00f7-4c6c-800d-ef4af027129e
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.butchersgames.woodslayers
+    id: 3428b664-4e7c-497c-9ad8-2b64d183a1f3
+    name: Wood Cut 3D
+  integrationGuideUrl: 

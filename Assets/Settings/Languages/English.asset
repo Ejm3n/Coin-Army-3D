@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468f2d18a2b03408e9c94db5f1a5239c, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  Strings:
+    keys:
+    - LevelNum
+    - SpinsAmount
+    - BlockedAttack
+    - YouWonAmount
+    - MoneyAmount
+    - PlusMoneyAmount
+    - BetButton
+    - SpinsTimer
+    - MissionBallsDescription
+    - PriceAmount
+    - AvailableItems
+    - YouStoleAmountCurrent
+    - YouStoleAmount
+    - HoldToAutospin
+    - Settings
+    - RestorePurchase
+    - PrivacyPolicy
+    - Missions
+    - Ok
+    - MissionToWinCollect
+    - MissionToGetMore
+    - MissionOneBall
+    - MissionTwoBalls
+    - MissionTenBalls
+    - Congratulations
+    - CollectYourReward
+    - EarnedMoney
+    - Boss
+    - Fight
+    - NewUnit
+    - MyCards
+    - Animals
+    - Warriors
+    - Chick
+    - Rooster
+    - Cat
+    - Boar
+    - Wolf
+    - Chimp
+    - Gorilla
+    - Rhino
+    - Elephant
+    - Archer
+    - Crossbowman
+    - Musketeer
+    - Wizard
+    - Witch
+    - Sorcerer
+    - Warlock
+    - Continue
+    - LevelPassed
+    - LevelFailed
+    - Retry
+    - AttackSuccessful1
+    - AttackSuccessful2
+    - GoldenTicket
+    - PerfectRaid
+    - VideoPack
+    - WatchAd
+    - DailyPack
+    - Energy
+    - Shop
+    - Locked
+    - Earn
+    - ThereAreEnemies
+    - LetsBuyAFighter
+    - LetsFight
+    - BuyMoreFighters
+    - YouCanCombine
+    - LetsBuyOneMore
+    - LetsSeeWhosStronger
+    - WeShouldEarnMoney
+    - SpinToEarnMoney
+    - WeCanBuyMoreFighters
+    - BuyFourArchers
+    - MergeThem
+    - BuyTwoChicks
+    - LetsBeatHim
+    - NoPlace
+    - MergeUnits
+    - NotEnoughMoney
+    - SpecialDeal
+    - BuyNow
+    - StarterPack
+    - MergingUnits
+    - HoldToAim
+    - AttackMissed
+    values:
+    - LEVEL {0}
+    - +{0} SPINS
+    - '{0} BLOCKED YOUR ATTACK!'
+    - YOU WON <color=#{0}>${1}</color>
+    - ${0}
+    - +${0}
+    - BET X{0}
+    - '{0} SPINS IN {1}'
+    - '{0} balls with a symbol'
+    - '{0}$'
+    - 'AVAILABLE: {0}/{1}'
+    - 'YOU STOLE: ${0}'
+    - YOU STOLE <color=#{0}>${1}</color>
+    - HOLD TO AUTOSPIN
+    - SETTINGS
+    - RESTORE PURCHASE
+    - PRIVACY POLICY
+    - Missions
+    - OK
+    - 'You can collect <sprite index=0> balls.
+
+      The more balls you collect
+      the better prize you get.'
+    - To get more <sprite index=0> raise the bets!
+    - 1 ball with a symbol
+    - 2 balls with a symbol
+    - 10 balls with a symbol
+    - CONGRATULATIONS!
+    - Collect your reward!
+    - EARNED MONEY
+    - BOSS
+    - FIGHT
+    - NEW UNIT!
+    - MY CARDS
+    - ANIMALS
+    - WARRIORS
+    - Chick
+    - Rooster
+    - Cat
+    - Boar
+    - Wolf
+    - Chimp
+    - Gorilla
+    - Rhino
+    - Elephant
+    - Archer
+    - Crossbowman
+    - Musketeer
+    - Wizard
+    - Witch
+    - Sorcerer
+    - Warlock
+    - CONTINUE
+    - LEVEL {0} PASSED
+    - LEVEL {0} FAILED
+    - RETRY
+    - ATTACK WAS
+    - SUCCESSFUL!
+    - GOLDEN TICKET
+    - PERFECT RAID!
+    - VIDEO PACK
+    - WATCH AD
+    - DAILY PACK
+    - ENERGY
+    - SHOP
+    - LOCKED
+    - EARN
+    - 'THERE ARE ENEMIES!
+
+      You need to defeat them!'
+    - "LET\u2019S BUY A FIGHTER"
+    - LET'S FIGHT!
+    - Oh, seems we should buy more fighters
+    - "You can combine two same figthers into one stronger!\nLet\u2019s try it"
+    - "Let\u2019s buy one more fighter"
+    - Now let's see who is stronger
+    - We should earn some money to beat that boss!
+    - SPIN TO EARN MONEY
+    - Now we can buy new fighters!
+    - Buy 4 archers
+    - COMBINE THEM
+    - Buy 2 chicks
+    - "Let\u2019s beat him!"
+    - NO SPACE
+    - MERGE UNITS
+    - NOT ENOUGH MONEY
+    - SPECIAL DEAL!
+    - BUY NOW!
+    - STARTER PACK!
+    - MERGING UNITS
+    - HOLD TO AIM
+    - YOU MISSED!

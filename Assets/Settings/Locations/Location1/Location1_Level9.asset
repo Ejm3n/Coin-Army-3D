@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79fdb0c98648c4b02a5f0634ac8331e8, type: 3}
+  m_Name: Location1_Level9
+  m_EditorClassIdentifier: 
+  UnitsSetup:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: fd0a1c650186b4ba9ac58208ad7c79f8, type: 2}
+  - {fileID: 11400000, guid: d7ecc2a3988b746ddabe4436c4a6204b, type: 2}
+  - {fileID: 11400000, guid: fd0a1c650186b4ba9ac58208ad7c79f8, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: d01f52a732ac440288573722a8563660, type: 2}
+  - {fileID: 11400000, guid: 40ab553ed10fe429ab3d667eacbbbb4b, type: 2}
+  - {fileID: 11400000, guid: d01f52a732ac440288573722a8563660, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  IsBoss: 0
+  DontGiveSpins: 0
+  LocationProgress: 9
+  LocationLength: 11
+  EnemyRewardMultiplierWin: 1
+  EnemyRewardMultiplierFail: 1
+  AdditionalFailReward: 37000
+  UseCustomEnemyPowerAfterFail: 1
+  EnemyPowerAfterFail: 0.75
+  NormalEnemyPower: 1
+  TestSetup:
+    SetUp: 1
+    MoneyAmount: 37500
+    SpinsAmount: 0
+    TutorialStage: 4
+    PlayerUnits:
+    - {fileID: 0}
+    - {fileID: 11400000, guid: 40ab553ed10fe429ab3d667eacbbbb4b, type: 2}
+    - {fileID: 0}
+    - {fileID: 11400000, guid: d01f52a732ac440288573722a8563660, type: 2}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 11400000, guid: 438a384b45cf14b6cb1855dfb3196567, type: 2}
+    - {fileID: 0}
+    - {fileID: 11400000, guid: 2e5dd12ab22744a0babf186657f1fc32, type: 2}
+    - {fileID: 0}
+    - {fileID: 11400000, guid: 7f9539e39530d46169f351dce29f4068, type: 2}
+    BlockedFromProceeding: 0
+    UsesModifiedDifficulty: 0
+    SpinsCount: 0
+    Price1: 11300
+    BoughtCount1: 8
+    Price2: 18100
+    RaisedPriceStage7_1: 0
+    BoughtCount2: 10
+    RaisedPriceStage7_2: 0
+    CurrentMissionProgress: 0
+    CurrentMission: 0
+    ShieldCount: 0
+    BoughtRangeUnitsOnLevel8: 0
+    DidTheft: 0

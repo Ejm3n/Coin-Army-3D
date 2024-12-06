@@ -1,0 +1,501 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 348176d60dbda0346aaa191239b5abd1, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  initialMoneyAmount: 100
+  initialSpinsAmount: 0
+  maxSpinsAmount: 50
+  initialShieldAmount: 0
+  maxShields: 3
+  GameSpeed: 1.5
+  DisableTutorial: 0
+  DisableAdditionalHands: 0
+  AlwaysAllowToFight: 0
+  DisableShop: 0
+  UseTestSetup: 0
+  RecordTestSetup: 0
+  InitialPlayerSetup:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  AllUnits:
+  - {fileID: 11400000, guid: 4c901a37578c64c119f96d4b8804311b, type: 2}
+  - {fileID: 11400000, guid: d01f52a732ac440288573722a8563660, type: 2}
+  - {fileID: 11400000, guid: d7ecc2a3988b746ddabe4436c4a6204b, type: 2}
+  - {fileID: 11400000, guid: 1a6cea30de61a4f6da86744c1047dfd2, type: 2}
+  - {fileID: 11400000, guid: 40ab553ed10fe429ab3d667eacbbbb4b, type: 2}
+  - {fileID: 11400000, guid: 070f852112249420c8076d7cae3b15fd, type: 2}
+  - {fileID: 11400000, guid: 57af808321bd449da8ab161453fcff14, type: 2}
+  - {fileID: 11400000, guid: ff931f6423c3b47239efc63feebdf06a, type: 2}
+  - {fileID: 11400000, guid: 60052cf2e501b4b578ec41e21f8d01a7, type: 2}
+  - {fileID: 11400000, guid: 3fb3045810bf84457a30b7a714709943, type: 2}
+  - {fileID: 11400000, guid: 992c07d2b0ad7704db6a67ce10024438, type: 2}
+  - {fileID: 11400000, guid: 64aaface49561704fb9cf7e48422d508, type: 2}
+  - {fileID: 11400000, guid: 657b1335d92b14c0a89fcb69f92c11f2, type: 2}
+  - {fileID: 11400000, guid: 456509bafb3f04e0888f66b765c8bf75, type: 2}
+  - {fileID: 11400000, guid: d587545e134b74a6fbf8bc204cc4497a, type: 2}
+  - {fileID: 11400000, guid: e80ef81cf747c4c888c56547f42a02e3, type: 2}
+  - {fileID: 11400000, guid: ef7726864c19443cc89243626f1d25cc, type: 2}
+  - {fileID: 11400000, guid: f1a55a8592af046e3acd68336575eef0, type: 2}
+  - {fileID: 11400000, guid: ca8e5360219a24da1b8e3d0b1171e56e, type: 2}
+  - {fileID: 11400000, guid: e40d831e36c9b44d8913efdf3fcaba3a, type: 2}
+  - {fileID: 11400000, guid: 2e5dd12ab22744a0babf186657f1fc32, type: 2}
+  - {fileID: 11400000, guid: f27dcfc82359543e0a8c8312c054103f, type: 2}
+  - {fileID: 11400000, guid: 438a384b45cf14b6cb1855dfb3196567, type: 2}
+  - {fileID: 11400000, guid: fc4951e92e3a746f58b005ccfce79487, type: 2}
+  - {fileID: 11400000, guid: 7f9539e39530d46169f351dce29f4068, type: 2}
+  - {fileID: 11400000, guid: fd0a1c650186b4ba9ac58208ad7c79f8, type: 2}
+  - {fileID: 11400000, guid: b78a9fa71405a4877966e0ac6e6e0bf1, type: 2}
+  - {fileID: 11400000, guid: 3dfa2335da789f04b9fca7cb0d6e0c63, type: 2}
+  - {fileID: 11400000, guid: 7602ae1a16b6d412888059930632b9ed, type: 2}
+  - {fileID: 11400000, guid: d5bd36c2a2ae34a70b1e658885cc20bf, type: 2}
+  - {fileID: 11400000, guid: bc94fe960dd93ac4f96e9638789f8927, type: 2}
+  - {fileID: 11400000, guid: 6a9f70501167e574891825d600de0cc1, type: 2}
+  - {fileID: 11400000, guid: bc2c8de08f8e84176a347c560d45b071, type: 2}
+  - {fileID: 11400000, guid: d6037c66a98f44679a0b4a64b1760936, type: 2}
+  - {fileID: 11400000, guid: a53d2431e63a9a142a4f2e527acc3d73, type: 2}
+  - {fileID: 11400000, guid: ecbeb5c95f39aec478a6924c613f49c1, type: 2}
+  MoneyLootPrefab: {fileID: 6391100324239795587, guid: 4ba511e955db448b4829325a2f157688,
+    type: 3}
+  UnitPriceRaiseMultiplier: 400
+  UnitRaiseEveryNLevels: 21
+  UnitPriceResetAmount: 250000
+  useCameraAngles: 1
+  showPromoCursor: 0
+  doPromoMerging: 0
+  doPromoDamageOnEnemy: 0
+  doPromoDamageOnPlayer: 0
+  UIColor: {r: 0.45882356, g: 0.86274517, b: 1, a: 1}
+  CombinationProbability: 5
+  CombinationProbabilityRaise: 1
+  MaxCombinationProbability: 50
+  FakeFirstSpins: 1
+  FakeFirstSpinsValues:
+  - FirstBall: 2
+    SecondBall: 0
+    ThirdBall: 4
+  - FirstBall: 2
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 4
+    SecondBall: 3
+    ThirdBall: 5
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 1
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 2
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 0
+    SecondBall: 4
+    ThirdBall: 2
+  - FirstBall: 4
+    SecondBall: 4
+    ThirdBall: 4
+  - FirstBall: 3
+    SecondBall: 1
+    ThirdBall: 3
+  - FirstBall: 2
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 5
+    SecondBall: 5
+    ThirdBall: 5
+  - FirstBall: 1
+    SecondBall: 2
+    ThirdBall: 5
+  - FirstBall: 2
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 0
+    SecondBall: 3
+    ThirdBall: 0
+  - FirstBall: 4
+    SecondBall: 1
+    ThirdBall: 1
+  - FirstBall: 3
+    SecondBall: 4
+    ThirdBall: 2
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 2
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 2
+    SecondBall: 0
+    ThirdBall: 0
+  - FirstBall: 2
+    SecondBall: 1
+    ThirdBall: 0
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 1
+    SecondBall: 1
+    ThirdBall: 5
+  - FirstBall: 4
+    SecondBall: 1
+    ThirdBall: 1
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 2
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 2
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 0
+    SecondBall: 1
+    ThirdBall: 5
+  - FirstBall: 2
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 3
+    SecondBall: 2
+    ThirdBall: 3
+  - FirstBall: 2
+    SecondBall: 2
+    ThirdBall: 4
+  - FirstBall: 2
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 2
+    SecondBall: 1
+    ThirdBall: 5
+  - FirstBall: 6
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 2
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 2
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 6
+    SecondBall: 2
+    ThirdBall: 3
+  - FirstBall: 2
+    SecondBall: 1
+    ThirdBall: 1
+  - FirstBall: 2
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 1
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 2
+    SecondBall: 6
+    ThirdBall: 3
+  - FirstBall: 2
+    SecondBall: 3
+    ThirdBall: 5
+  - FirstBall: 1
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 3
+    SecondBall: 1
+    ThirdBall: 6
+  - FirstBall: 2
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 2
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 3
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 3
+    SecondBall: 6
+    ThirdBall: 2
+  - FirstBall: 0
+    SecondBall: 6
+    ThirdBall: 6
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 2
+    SecondBall: 5
+    ThirdBall: 3
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 1
+  - FirstBall: 1
+    SecondBall: 1
+    ThirdBall: 2
+  - FirstBall: 0
+    SecondBall: 2
+    ThirdBall: 2
+  - FirstBall: 3
+    SecondBall: 3
+    ThirdBall: 3
+  - FirstBall: 5
+    SecondBall: 6
+    ThirdBall: 6
+  - FirstBall: 3
+    SecondBall: 2
+    ThirdBall: 6
+  - FirstBall: 2
+    SecondBall: 2
+    ThirdBall: 2
+  UseTestCombination: 0
+  TestCombination:
+    FirstBall: 5
+    SecondBall: 5
+    ThirdBall: 5
+  LottoCombinations:
+  - Name: Shield Jackpot
+    Combination: 000000000000000000000000
+    Probability: 1
+    ProbabilityRaise: 3
+    MaxProbability: 1000
+    RewardType: 3
+    RewardAmount: 1
+    RewardRaise: 0
+    AnimationName: ShieldJackpotAnim
+    Enabled: 0
+  - Name: Power Jackpot
+    Combination: 010000000100000001000000
+    Probability: 1
+    ProbabilityRaise: 3
+    MaxProbability: 1000
+    RewardType: 1
+    RewardAmount: 10
+    RewardRaise: 0
+    AnimationName: PowerJackpotAnim
+    Enabled: 1
+  - Name: Money Jackpot
+    Combination: 020000000200000002000000
+    Probability: 1
+    ProbabilityRaise: 3
+    MaxProbability: 1000
+    RewardType: 0
+    RewardAmount: 20000
+    RewardRaise: 5000
+    AnimationName: MoneyJackpotAnim
+    Enabled: 1
+  - Name: Gold Jackpot
+    Combination: 030000000300000003000000
+    Probability: 1
+    ProbabilityRaise: 3
+    MaxProbability: 1000
+    RewardType: 0
+    RewardAmount: 80000
+    RewardRaise: 10000
+    AnimationName: GoldJackpotAnim
+    Enabled: 1
+  - Name: Damage Jackpot
+    Combination: 040000000400000004000000
+    Probability: 1
+    ProbabilityRaise: 3
+    MaxProbability: 1000
+    RewardType: 2
+    RewardAmount: 0
+    RewardRaise: 0
+    AnimationName: DamageJackpotAnim
+    Enabled: 0
+  - Name: Theft Jackpot
+    Combination: 050000000500000005000000
+    Probability: 1
+    ProbabilityRaise: 3
+    MaxProbability: 1000
+    RewardType: 4
+    RewardAmount: 0
+    RewardRaise: 0
+    AnimationName: TheftJackpotAnim
+    Enabled: 0
+  - Name: Heart Jackpot
+    Combination: 060000000600000006000000
+    Probability: 1
+    ProbabilityRaise: 3
+    MaxProbability: 1000
+    RewardType: 5
+    RewardAmount: 0
+    RewardRaise: 0
+    AnimationName: HeartJackpotAnim
+    Enabled: 1
+  - Name: Random
+    Combination: 
+    Probability: -1
+    ProbabilityRaise: 0
+    MaxProbability: 0
+    RewardType: 0
+    RewardAmount: 0
+    RewardRaise: 0
+    AnimationName: 
+    Enabled: 1
+  LottoRewards:
+  - Name: Shield
+    BallType: 0
+    RewardType: 5
+    RewardAmount: 0
+    RewardRaise: 0
+    Enabled: 1
+  - Name: Power
+    BallType: 1
+    RewardType: 5
+    RewardAmount: 0
+    RewardRaise: 0
+    Enabled: 1
+  - Name: Money
+    BallType: 2
+    RewardType: 0
+    RewardAmount: 1000
+    RewardRaise: 500
+    Enabled: 1
+  - Name: Gold
+    BallType: 3
+    RewardType: 0
+    RewardAmount: 5000
+    RewardRaise: 1000
+    Enabled: 1
+  - Name: Damage
+    BallType: 4
+    RewardType: 5
+    RewardAmount: 0
+    RewardRaise: 0
+    Enabled: 1
+  - Name: Ticket
+    BallType: 5
+    RewardType: 5
+    RewardAmount: 0
+    RewardRaise: 0
+    Enabled: 1
+  - Name: Heart
+    BallType: 6
+    RewardType: 5
+    RewardAmount: 0
+    RewardRaise: 0
+    Enabled: 1
+  SpinsRewardForPassedLevel: 2
+  SpinsRewardForPassedLocation: 3
+  SlotMachineMinDelay: 0.2
+  SlotMachineMaxDelay: 1
+  AttackReward: 150000
+  AttackRewardRaise: 50000
+  FailedAttackPercent: 0.33
+  TheftRewardPercent1: 0.7
+  TheftRewardPercent2: 0.15
+  TheftRewardPercent3: 0.15
+  NextSpinTimer: 3600
+  NextSpinAmount: 5
+  EnemyPowerAfterFail: 0.9
+  MinEnemyPowerAfterFail: 0.1
+  PriceMultiplierAfterFirstSpin: 3
+  MissionProgressOnJackpot: 10
+  Missions:
+  - TargetBallType: 6
+    TargetAmount: 5
+    RewardType: 1
+    RewardAmount: 10
+    MissionDescription: MissionToWinCollect
+  - TargetBallType: 6
+    TargetAmount: 3
+    RewardType: 0
+    RewardAmount: 100000
+    MissionDescription: MissionToWinCollect
+  - TargetBallType: 6
+    TargetAmount: 10
+    RewardType: 1
+    RewardAmount: 20
+    MissionDescription: MissionToWinCollect
+  - TargetBallType: 6
+    TargetAmount: 5
+    RewardType: 0
+    RewardAmount: 150000
+    MissionDescription: MissionToWinCollect
+  - TargetBallType: 6
+    TargetAmount: 40
+    RewardType: 1
+    RewardAmount: 60
+    MissionDescription: MissionToWinCollect
+  - TargetBallType: 6
+    TargetAmount: 15
+    RewardType: 0
+    RewardAmount: 400000
+    MissionDescription: MissionToWinCollect
+  - TargetBallType: 6
+    TargetAmount: 80
+    RewardType: 1
+    RewardAmount: 130
+    MissionDescription: MissionToWinCollect
+  - TargetBallType: 6
+    TargetAmount: 30
+    RewardType: 0
+    RewardAmount: 2500000
+    MissionDescription: MissionToWinCollect
+  - TargetBallType: 6
+    TargetAmount: 300
+    RewardType: 1
+    RewardAmount: 300
+    MissionDescription: MissionToWinCollect
+  - TargetBallType: 6
+    TargetAmount: 100
+    RewardType: 0
+    RewardAmount: 20000000
+    MissionDescription: MissionToWinCollect
+  - TargetBallType: 6
+    TargetAmount: 1000
+    RewardType: 1
+    RewardAmount: 1000
+    MissionDescription: MissionToWinCollect
+  - TargetBallType: 6
+    TargetAmount: 300
+    RewardType: 0
+    RewardAmount: 100000000
+    MissionDescription: MissionToWinCollect
+  TextAccentColor: {r: 0.9764706, g: 0.62352943, b: 0.21960784, a: 1}
+  AllOpponents:
+  - {fileID: 11400000, guid: 4645393a6b48b4f9d85e02652569e915, type: 2}
+  - {fileID: 11400000, guid: 572e17b00b4dc4ec79b4cdf60c9f0512, type: 2}
+  - {fileID: 11400000, guid: 1cd0c2161f5134540bc562c03845dc3c, type: 2}
+  - {fileID: 11400000, guid: 2372ccf20b4ee47aab4a502febf4e888, type: 2}
+  - {fileID: 11400000, guid: d085ace73aa1141ddab9f838e589aa56, type: 2}
+  - {fileID: 11400000, guid: 5e9b3e9b506734be59f3a32ff8d8c3fe, type: 2}
+  AllLanguages:
+  - {fileID: 11400000, guid: 28318fb0287a648c28bab7825b4e1a86, type: 2}
+  - {fileID: 11400000, guid: e8d8a0960a3ec4cd491950bcadb3ba43, type: 2}
+  - {fileID: 11400000, guid: 267677fca8e569f4a8d70138a02401c2, type: 2}
+  CurrentLanguage: 0
+  AdsSpinsAmount: 10
+  IAPMoneyReward: 8000000
+  IAPSpinsReward: 100
+  IAPPrice: 2.17

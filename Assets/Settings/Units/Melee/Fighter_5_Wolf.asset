@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f716317523934af2a6807e5170afab2, type: 3}
+  m_Name: Fighter_5_Wolf
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 9110828930803237992, guid: 33077dce750d67347a30926725b699d3, type: 3}
+  TurnInto: {fileID: 11400000, guid: 070f852112249420c8076d7cae3b15fd, type: 2}
+  UnitLevel: 4
+  HP: 635
+  Damage: 95
+  DamageInPercent: 0
+  DamageEveryone: 0
+  DamageDelay: 1.4
+  DamageApplyDelay: 0.6
+  DamageFromLightningPercent: 0.02
+  Price: 100
+  BaseRewardForKill: 1600
+  RewardForKillRaise: 3200
+  RotationSpeed: 5
+  MoveSpeed: 3
+  StopDistance: 2
+  ArrowSpeed: 0
+  ArrowDamageRadius: 0
+  UnitName: Yellow Dotted Fish
+  IsAnimal: 1
+  PlayerUsable: 1
+  CardListOrder: 4
+  CardPreviewOffset: {x: 0.15, y: 0.2, z: 0}
+  CardPreviewScale: 0.9

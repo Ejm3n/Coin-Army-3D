@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f716317523934af2a6807e5170afab2, type: 3}
+  m_Name: Fighter_2_Rooster
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 9110828930803237992, guid: 34349f725672b0a4eaa37bfbeaac6dbd, type: 3}
+  TurnInto: {fileID: 11400000, guid: d7ecc2a3988b746ddabe4436c4a6204b, type: 2}
+  UnitLevel: 1
+  HP: 48
+  Damage: 7
+  DamageInPercent: 0
+  DamageEveryone: 0
+  DamageDelay: 1.4
+  DamageApplyDelay: 0.6
+  DamageFromLightningPercent: 0.02
+  Price: 100
+  BaseRewardForKill: 200
+  RewardForKillRaise: 400
+  RotationSpeed: 5
+  MoveSpeed: 3
+  StopDistance: 1
+  ArrowSpeed: 0
+  ArrowDamageRadius: 0
+  UnitName: Green Blue Fish
+  IsAnimal: 1
+  PlayerUsable: 1
+  CardListOrder: 1
+  CardPreviewOffset: {x: 0.05, y: 0.2, z: 0}
+  CardPreviewScale: 1.5

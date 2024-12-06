@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79fdb0c98648c4b02a5f0634ac8331e8, type: 3}
+  m_Name: Location9_Level3
+  m_EditorClassIdentifier: 
+  UnitsSetup:
+  - {fileID: 11400000, guid: 070f852112249420c8076d7cae3b15fd, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 456509bafb3f04e0888f66b765c8bf75, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 456509bafb3f04e0888f66b765c8bf75, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 070f852112249420c8076d7cae3b15fd, type: 2}
+  - {fileID: 0}
+  IsBoss: 0
+  DontGiveSpins: 0
+  LocationProgress: 3
+  LocationLength: 5
+  EnemyRewardMultiplierWin: 0.35
+  EnemyRewardMultiplierFail: 0.35
+  AdditionalFailReward: 0
+  UseCustomEnemyPowerAfterFail: 0
+  EnemyPowerAfterFail: 0
+  NormalEnemyPower: 1

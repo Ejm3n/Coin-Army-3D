@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b35b5d36f0a94c4daf5f5fbf2d549e8, type: 3}
+  m_Name: Store
+  m_EditorClassIdentifier: 
+  Items:
+  - ProductName: video_pack
+    Rewards:
+    - RewardAmount: 2
+      Type: 0
+      DependsOnAttackReward: 1
+    - RewardAmount: 10
+      Type: 1
+      DependsOnAttackReward: 0
+    Price: 1
+    BuyWith: 1
+    PurchasesPerDay: 2
+    HideIfNotAvailable: 0
+  - ProductName: daily_pack
+    Rewards:
+    - RewardAmount: 100000000
+      Type: 0
+      DependsOnAttackReward: 0
+    - RewardAmount: 7500
+      Type: 1
+      DependsOnAttackReward: 0
+    Price: 74.9
+    BuyWith: 0
+    PurchasesPerDay: 1
+    HideIfNotAvailable: 1
+  - ProductName: spins_25
+    Rewards:
+    - RewardAmount: 25
+      Type: 1
+      DependsOnAttackReward: 0
+    Price: 2.29
+    BuyWith: 0
+    PurchasesPerDay: -1
+    HideIfNotAvailable: 0
+  - ProductName: spins_70
+    Rewards:
+    - RewardAmount: 70
+      Type: 1
+      DependsOnAttackReward: 0
+    Price: 5.49
+    BuyWith: 0
+    PurchasesPerDay: -1
+    HideIfNotAvailable: 0
+  - ProductName: spins_200
+    Rewards:
+    - RewardAmount: 200
+      Type: 1
+      DependsOnAttackReward: 0
+    Price: 12.99
+    BuyWith: 0
+    PurchasesPerDay: -1
+    HideIfNotAvailable: 0
+  - ProductName: spins_380
+    Rewards:
+    - RewardAmount: 380
+      Type: 1
+      DependsOnAttackReward: 0
+    Price: 21.99
+    BuyWith: 0
+    PurchasesPerDay: -1
+    HideIfNotAvailable: 0
+  - ProductName: spins_1100
+    Rewards:
+    - RewardAmount: 1100
+      Type: 1
+      DependsOnAttackReward: 0
+    Price: 54.99
+    BuyWith: 0
+    PurchasesPerDay: -1
+    HideIfNotAvailable: 0
+  - ProductName: spins_2450
+    Rewards:
+    - RewardAmount: 2450
+      Type: 1
+      DependsOnAttackReward: 0
+    Price: 109.99
+    BuyWith: 0
+    PurchasesPerDay: -1
+    HideIfNotAvailable: 0

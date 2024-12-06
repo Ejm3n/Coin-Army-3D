@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468f2d18a2b03408e9c94db5f1a5239c, type: 3}
+  m_Name: Portuguese
+  m_EditorClassIdentifier: 
+  Strings:
+    keys:
+    - LevelNum
+    - SpinsAmount
+    - BlockedAttack
+    - YouWonAmount
+    - MoneyAmount
+    - PlusMoneyAmount
+    - BetButton
+    - SpinsTimer
+    - MissionBallsDescription
+    - PriceAmount
+    - AvailableItems
+    - YouStoleAmountCurrent
+    - YouStoleAmount
+    - HoldToAutospin
+    - Settings
+    - RestorePurchase
+    - PrivacyPolicy
+    - Missions
+    - Ok
+    - MissionToWinCollect
+    - MissionToGetMore
+    - MissionOneBall
+    - MissionTwoBalls
+    - MissionTenBalls
+    - Congratulations
+    - CollectYourReward
+    - EarnedMoney
+    - Boss
+    - Fight
+    - NewUnit
+    - MyCards
+    - Animals
+    - Warriors
+    - Chick
+    - Rooster
+    - Cat
+    - Boar
+    - Wolf
+    - Chimp
+    - Gorilla
+    - Rhino
+    - Elephant
+    - Archer
+    - Crossbowman
+    - Musketeer
+    - Wizard
+    - Witch
+    - Sorcerer
+    - Warlock
+    - Continue
+    - LevelPassed
+    - LevelFailed
+    - Retry
+    - AttackSuccessful1
+    - AttackSuccessful2
+    - GoldenTicket
+    - PerfectRaid
+    - VideoPack
+    - WatchAd
+    - DailyPack
+    - Energy
+    - Shop
+    - Locked
+    - Earn
+    - ThereAreEnemies
+    - LetsBuyAFighter
+    - LetsFight
+    - BuyMoreFighters
+    - YouCanCombine
+    - LetsBuyOneMore
+    - LetsSeeWhosStronger
+    - WeShouldEarnMoney
+    - SpinToEarnMoney
+    - WeCanBuyMoreFighters
+    - BuyFourArchers
+    - MergeThem
+    - BuyTwoChicks
+    - LetsBeatHim
+    - NoPlace
+    - MergeUnits
+    - NotEnoughMoney
+    - SpecialDeal
+    - BuyNow
+    - StarterPack
+    - MergingUnits
+    - HoldToAim
+    - AttackMissed
+    values:
+    - "N\xCDVEL {0}"
+    - +{0} ROTACIONA
+    - '{0} BLOQUEOU SEU ATAQUE!'
+    - "VOC\xCA GANHOU <color=#{0}>${1}</color>"
+    - ${0}
+    - +${0}
+    - APOSTE X{0}
+    - '{0} GIRA EM {1}'
+    - "{0} bolas com um s\xEDmbolo"
+    - '{0}$'
+    - "DISPON\xCDVEL: {0}/{1}"
+    - "VOC\xCA ROUBOU:  ${0}"
+    - "VOC\xCA ROUBOU <color=#{0}>${1}</color>"
+    - SEGURE PARA AUTOSPIN
+    - "CONFIGURA\xC7\xD5ES"
+    - RESTAURAR COMPRA
+    - "POL\xCDTICA DE PRIVACIDADE"
+    - "Miss\xF5es"
+    - OK
+    - "Voc\xEA pode coletar <sprite index=0> bolas.\nQuanto mais bolas voc\xEA coletar,
+      melhor pr\xEAmio voc\xEA ganha."
+    - Para obter mais <sprite index=0> aumente as apostas!
+    - "1 bola com um s\xEDmbolo"
+    - "2 bolas com um s\xEDmbolo"
+    - "10 bolas com um s\xEDmbolo"
+    - "PARAB\xC9NS!"
+    - Colete sua recompensa!
+    - DINHEIRO GANHOU
+    - CHEFE
+    - LUTAR
+    - NOVA UNIDADE!
+    - "MEUS CART\xD5ES"
+    - ANIMAIS
+    - GUERREIROS
+    - pintinho
+    - Galo
+    - Gato
+    - Javali
+    - Lobo
+    - "chimpanz\xE9"
+    - Gorila
+    - Rinoceronte
+    - Elefante
+    - Arqueiro
+    - Besteiro
+    - Mosqueteiro
+    - Mago
+    - Bruxa
+    - Feiticeiro
+    - Bruxo
+    - CONTINUAR
+    - "N\xCDVEL {0} PASSADO"
+    - "N\xCDVEL {0} FALHADO"
+    - TENTAR NOVAMENTE
+    - ATAQUE FOI
+    - SUCESSO!
+    - BILHETE DOURADO
+    - RAID PERFEITO!
+    - "PACOTE DE V\xCDDEO"
+    - "VER AN\xDANCIO"
+    - "PACOTE DI\xC1RIO"
+    - ENERGIA
+    - COMPRAR
+    - BLOQUEADO
+    - GANHAR
+    - "EXISTEM INIMIGOS!\r\nVoc\xEA precisa derrot\xE1-los!"
+    - "VAMOS COMPRAR UM CA\xC7ADOR"
+    - VAMOS LUTAR!
+    - Oh, parece que devemos comprar mais lutadores
+    - "Voc\xEA pode combinar dois lutadores iguais em um mais forte!\r\nVamos tentar"
+    - Vamos comprar mais um lutador
+    - "Agora vamos ver quem \xE9 mais forte"
+    - Devemos ganhar algum dinheiro para derrotar aquele chefe!
+    - GIRE PARA GANHAR DINHEIRO
+    - Agora podemos comprar novos lutadores!
+    - Compre 4 arqueiros
+    - COMBINE-OS
+    - compre 2 pintinhos
+    - "Vamos venc\xEA-lo!"
+    - "SEM ESPA\xC7O"
+    - UNIR UNIDADES
+    - DINHEIRO INSUFICIENTE
+    - OFERTA ESPECIAL!
+    - COMPRAR AGORA!
+    - PACOTE DE INICIANTE!
+    - "UNIDADES DE FUS\xC3O"
+    - SEGURE PARA AIMAR
+    - "VOC\xCA PERDEU!"

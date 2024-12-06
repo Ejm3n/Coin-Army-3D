@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a996c492705604889e78d95815b589, type: 3}
+  m_Name: SoundHolder
+  m_EditorClassIdentifier: 
+  soundPacks:
+  - key: Soundtrack
+    sounds:
+    - clip: {fileID: 8300000, guid: 0aef6538f52621f46b181d64de12f133, type: 3}
+      volume: 0.1
+  - key: SoundtrackBoss
+    sounds:
+    - clip: {fileID: 8300000, guid: 3778b00ac51e54c1aa846e9658e95620, type: 3}
+      volume: 0.1
+  - key: AttackJackpot
+    sounds:
+    - clip: {fileID: 8300000, guid: e6c42f96d5072b044856641e68a4a2d8, type: 3}
+      volume: 1
+  - key: Attack
+    sounds:
+    - clip: {fileID: 8300000, guid: 76743d97806a5467e84c22b2634a820c, type: 3}
+      volume: 0.5
+  - key: ShieldBreak
+    sounds:
+    - clip: {fileID: 8300000, guid: 32f1dac86f678e043b9147db969832c5, type: 3}
+      volume: 0.5
+  - key: ButtonSound
+    sounds:
+    - clip: {fileID: 8300000, guid: 8642a79ff089e49ebaf37d1af32dc5d4, type: 3}
+      volume: 0.5
+  - key: BallShuffle
+    sounds:
+    - clip: {fileID: 8300000, guid: b81e052ad97004a42a008921357b3e1d, type: 3}
+      volume: 0.05
+  - key: MoneySound
+    sounds:
+    - clip: {fileID: 8300000, guid: 3a453bda657cf4c3b99d823ad8a5fda3, type: 3}
+      volume: 0.5
+  - key: GoldFlow
+    sounds:
+    - clip: {fileID: 8300000, guid: 54ee0dad167654c94b112078db8f4015, type: 3}
+      volume: 0.5
+  - key: DollarFlow
+    sounds:
+    - clip: {fileID: 8300000, guid: 54ee0dad167654c94b112078db8f4015, type: 3}
+      volume: 0.5
+  - key: EnergyJackpot
+    sounds:
+    - clip: {fileID: 8300000, guid: c0a1ed7f7ac2346e8921507b805d50e4, type: 3}
+      volume: 0.5
+  - key: TicketScratching
+    sounds:
+    - clip: {fileID: 8300000, guid: 923ff6363d4d746b08918069f3d54dce, type: 3}
+      volume: 0.5
+  - key: Explosion
+    sounds:
+    - clip: {fileID: 8300000, guid: 92d3259b6a9732e4ba3fb95331b2c95d, type: 3}
+      volume: 0.5
+  - key: HeartSound
+    sounds:
+    - clip: {fileID: 8300000, guid: 7d63cc857effa3c41b9e3f2d8331c087, type: 3}
+      volume: 0.5
+  - key: ShieldJackpot
+    sounds:
+    - clip: {fileID: 8300000, guid: 308b15cad765747a786665a7287ec562, type: 3}
+      volume: 0.5
+  - key: GameOver
+    sounds:
+    - clip: {fileID: 8300000, guid: fe668d8646cb8486498b46e20d842897, type: 3}
+      volume: 0.5
+  - key: UnitGrab
+    sounds:
+    - clip: {fileID: 8300000, guid: c03746af8adf147b28543f57ff2e580d, type: 3}
+      volume: 0.5
+  - key: BuyUnit
+    sounds:
+    - clip: {fileID: 8300000, guid: 17d0e0e4d6bd84536bf766b7bdd3178c, type: 3}
+      volume: 0.5
+  - key: BallShow
+    sounds:
+    - clip: {fileID: 8300000, guid: 6b86f989a4c1e4cc0afaa4c155932b2e, type: 3}
+      volume: 0.5
+  - key: DollarJackpot
+    sounds:
+    - clip: {fileID: 8300000, guid: d3b2a117622d74335a21a47b18d5bbbe, type: 3}
+      volume: 0.5
+  - key: GoldJackpot
+    sounds:
+    - clip: {fileID: 8300000, guid: d3b2a117622d74335a21a47b18d5bbbe, type: 3}
+      volume: 0.5
+  - key: MergeSound
+    sounds:
+    - clip: {fileID: 8300000, guid: 84b194ec43d584979991214a05442e92, type: 3}
+      volume: 0.5
+  - key: ButtonSoundUI
+    sounds:
+    - clip: {fileID: 8300000, guid: 9ddf4ecfa1fca4f258a2aa36fc19a63d, type: 3}
+      volume: 0.5
+  - key: ShootSound
+    sounds:
+    - clip: {fileID: 8300000, guid: db6ac61daa9b84657856db236157ef2e, type: 3}
+      volume: 0.5
+  - key: Win
+    sounds:
+    - clip: {fileID: 8300000, guid: d36842a8b96a140b6a4bc62f04dd5777, type: 3}
+      volume: 0.14
+  - key: Transition
+    sounds:
+    - clip: {fileID: 8300000, guid: 42f65c194b4274379a8edb401e07d50f, type: 3}
+      volume: 0.5
+  - key: MissionFill
+    sounds:
+    - clip: {fileID: 8300000, guid: c4f9eae9a6d84429d9cdba086b4e6251, type: 3}
+      volume: 0.5
+  - key: Chest
+    sounds:
+    - clip: {fileID: 8300000, guid: 5f4da330ee77040d5b6ed3d8b96c98b3, type: 3}
+      volume: 0.5
+  - key: Hit
+    sounds:
+    - clip: {fileID: 8300000, guid: 3cd6328ada25347c289bccaa5c737989, type: 3}
+      volume: 0.5
+    - clip: {fileID: 8300000, guid: 295cdc752ee054cd0b6b26f297ef3531, type: 3}
+      volume: 0.5
+  - key: TheftJackpot
+    sounds:
+    - clip: {fileID: 8300000, guid: 8b3deb33d74d04670a9f30522567d8cf, type: 3}
+      volume: 0.5
+  - key: GunShot
+    sounds:
+    - clip: {fileID: 8300000, guid: a5d42a47d280746089fbaef0163169a4, type: 3}
+      volume: 0.5
+  - key: MissionReward
+    sounds:
+    - clip: {fileID: 8300000, guid: 9c6779609b2a24fee83a59932cb2cb65, type: 3}
+      volume: 0.5
+  - key: Magic
+    sounds:
+    - clip: {fileID: 8300000, guid: 01cf31d073dc943dbbd4705b30b445b8, type: 3}
+      volume: 0.5
+  - key: Lightning
+    sounds:
+    - clip: {fileID: 8300000, guid: 715780c44280b5a478739a8d5c7221ce, type: 3}
+      volume: 0.5
+  - key: LootPickup
+    sounds:
+    - clip: {fileID: 8300000, guid: 3a453bda657cf4c3b99d823ad8a5fda3, type: 3}
+      volume: 0.5

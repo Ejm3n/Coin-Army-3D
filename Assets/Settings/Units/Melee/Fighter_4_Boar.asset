@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f716317523934af2a6807e5170afab2, type: 3}
+  m_Name: Fighter_4_Boar
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 9110828930803237992, guid: a29b08615db8a2343ad777ea6c965a36, type: 3}
+  TurnInto: {fileID: 11400000, guid: 1a6cea30de61a4f6da86744c1047dfd2, type: 2}
+  UnitLevel: 3
+  HP: 269
+  Damage: 40
+  DamageInPercent: 0
+  DamageEveryone: 0
+  DamageDelay: 1.4
+  DamageApplyDelay: 0.6
+  DamageFromLightningPercent: 0.02
+  Price: 100
+  BaseRewardForKill: 800
+  RewardForKillRaise: 1600
+  RotationSpeed: 5
+  MoveSpeed: 3
+  StopDistance: 1.5
+  ArrowSpeed: 0
+  ArrowDamageRadius: 0
+  UnitName: Domino Fish
+  IsAnimal: 1
+  PlayerUsable: 1
+  CardListOrder: 3
+  CardPreviewOffset: {x: 0.3, y: 0.2, z: 0}
+  CardPreviewScale: 1.25
